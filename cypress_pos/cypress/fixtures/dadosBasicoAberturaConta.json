@@ -1,0 +1,15 @@
+{
+  "password": "teste123",
+  "day": 29,
+  "month": 4,
+  "year": "1989",
+  "firstName": "Teste",
+  "lastName": "Automação",
+  "company": "PGTAS",
+  "address": "Rua: Luiz Noguet Junior n50",
+  "country": "United States",
+  "state": "Rio de Janeiro",
+  "city": "Teresópolis",
+  "zipCode": "25956-210",
+  "mobileNumber": "21-992101741"
+}
